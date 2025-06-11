@@ -4,7 +4,7 @@
 TimeLockedSavings is a smart contract that allows users to deposit funds with a specified lock period during which the funds cannot be withdrawn. Users can only withdraw their funds after the lock duration has passed.
 
 ## Project Vision
-To provide a secure on-chain savings mechanism with enforced withdrawal restrictions, encouraging saving discipline using blockchain transparency and immutability.
+To empower individuals with a secure, transparent, and automated savings tool that encourages self-imposed financial discipline, reduces impulsive spending, and democratizes access to responsible saving mechanisms—free from centralized control..
 
 ## Key Features
 - User deposits with customizable lock duration
