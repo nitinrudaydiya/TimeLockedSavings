@@ -1,4 +1,4 @@
-# TimeLockedSavings
+# Time Locked Savings
 
 ## Project Title
 TimeLockedSavings
