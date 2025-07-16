@@ -1,4 +1,4 @@
-# Time Locked Savings
+# TimeLocked Savings
 
 ## Project Title
 Time Locked Savings
