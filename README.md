@@ -1,7 +1,7 @@
 # Time Locked Savings
 
 ## Project Title
-Time Loccked Savings
+Time Locked Savings
 
 ## Project Description
 - Time Locked Savings is a smart contract that allows users to deposit funds with a specified lock period during which the funds cannot be withdrawn. Users can only withdraw their funds after the lock duration has passed.
